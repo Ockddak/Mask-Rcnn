@@ -1,0 +1,602 @@
+class_code,class_name,idx
+/m/011k07,Tortoise,0
+/m/011q46kg,Container,1
+/m/012074,Magpie,2
+/m/0120dh,Sea turtle,3
+/m/01226z,Football,4
+/m/012n7d,Ambulance,5
+/m/012w5l,Ladder,6
+/m/012xff,Toothbrush,7
+/m/012ysf,Syringe,8
+/m/0130jx,Sink,9
+/m/0138tl,Toy,10
+/m/013y1f,Organ (Musical Instrument),11
+/m/01432t,Cassette deck,12
+/m/014j1m,Apple,13
+/m/014sv8,Human eye,14
+/m/014trl,Cosmetics,15
+/m/014y4n,Paddle,16
+/m/0152hh,Snowman,17
+/m/01599,Beer,18
+/m/01_5g,Chopsticks,19
+/m/015h_t,Human beard,20
+/m/015p6,Bird,21
+/m/015qbp,Parking meter,22
+/m/015qff,Traffic light,23
+/m/015wgc,Croissant,24
+/m/015x4r,Cucumber,25
+/m/015x5n,Radish,26
+/m/0162_1,Towel,27
+/m/0167gd,Doll,28
+/m/016m2d,Skull,29
+/m/0174k2,Washing machine,30
+/m/0174n1,Glove,31
+/m/0175cv,Tick,32
+/m/0176mf,Belt,33
+/m/017ftj,Sunglasses,34
+/m/018j2,Banjo,35
+/m/018p4k,Cart,36
+/m/018xm,Ball,37
+/m/01940j,Backpack,38
+/m/0199g,Bicycle,39
+/m/019dx1,Home appliance,40
+/m/019h78,Centipede,41
+/m/019jd,Boat,42
+/m/019w40,Surfboard,43
+/m/01b638,Boot,44
+/m/01b7fy,Headphones,45
+/m/01b9xk,Hot dog,46
+/m/01bfm9,Shorts,47
+/m/01_bhs,Fast food,48
+/m/01bjv,Bus,49
+/m/01bl7v,Boy,50
+/m/01bms0,Screwdriver,51
+/m/01bqk0,Bicycle wheel,52
+/m/01btn,Barge,53
+/m/01c648,Laptop,54
+/m/01cmb2,Miniskirt,55
+/m/01d380,Drill (Tool),56
+/m/01d40f,Dress,57
+/m/01dws,Bear,58
+/m/01dwsz,Waffle,59
+/m/01dwwc,Pancake,60
+/m/01dxs,Brown bear,61
+/m/01dy8n,Woodpecker,62
+/m/01f8m5,Blue jay,63
+/m/01f91_,Pretzel,64
+/m/01fb_0,Bagel,65
+/m/01fdzj,Tower,66
+/m/01fh4r,Teapot,67
+/m/01g317,Person,68
+/m/01g3x7,Bow and arrow,69
+/m/01gkx_,Swimwear,70
+/m/01gllr,Beehive,71
+/m/01gmv2,Brassiere,72
+/m/01h3n,Bee,73
+/m/01h44,Bat (Animal),74
+/m/01h8tj,Starfish,75
+/m/01hrv5,Popcorn,76
+/m/01j3zr,Burrito,77
+/m/01j4z9,Chainsaw,78
+/m/01j51,Balloon,79
+/m/01j5ks,Wrench,80
+/m/01j61q,Tent,81
+/m/01jfm_,Vehicle registration plate,82
+/m/01jfsr,Lantern,83
+/m/01k6s3,Toaster,84
+/m/01kb5b,Flashlight,85
+/m/01knjb,Billboard,86
+/m/01krhy,Tiara,87
+/m/01lcw4,Limousine,88
+/m/01llwg,Necklace,89
+/m/01lrl,Carnivore,90
+/m/01lsmm,Scissors,91
+/m/01lynh,Stairs,92
+/m/01m2v,Computer keyboard,93
+/m/01m4t,Printer,94
+/m/01mqdt,Traffic sign,95
+/m/01mzpv,Chair,96
+/m/01n4qj,Shirt,97
+/m/01n5jq,Poster,98
+/m/01nkt,Cheese,99
+/m/01nq26,Sock,100
+/m/01pns0,Fire hydrant,101
+/m/01prls,Land vehicle,102
+/m/01r546,Earrings,103
+/m/01rkbr,Tie,104
+/m/01rzcn,Watercraft,105
+/m/01s105,Cabinetry,106
+/m/01s55n,Suitcase,107
+/m/01tcjp,Muffin,108
+/m/01vbnl,Bidet,109
+/m/01ww8y,Snack,110
+/m/01x3jk,Snowmobile,111
+/m/01x3z,Clock,112
+/m/01xgg_,Medical equipment,113
+/m/01xq0k1,Cattle,114
+/m/01xqw,Cello,115
+/m/01xs3r,Jet ski,116
+/m/01x_v,Camel,117
+/m/01xygc,Coat,118
+/m/01xyhv,Suit,119
+/m/01y9k5,Desk,120
+/m/01yrx,Cat,121
+/m/01yx86,Bronze sculpture,122
+/m/01z1kdw,Juice,123
+/m/02068x,Gondola,124
+/m/020jm,Beetle,125
+/m/020kz,Cannon,126
+/m/020lf,Computer mouse,127
+/m/021mn,Cookie,128
+/m/021sj1,Office building,129
+/m/0220r2,Fountain,130
+/m/0242l,Coin,131
+/m/024d2,Calculator,132
+/m/024g6,Cocktail,133
+/m/02522,Computer monitor,134
+/m/025dyy,Box,135
+/m/025fsf,Stapler,136
+/m/025nd,Christmas tree,137
+/m/025rp__,Cowboy hat,138
+/m/0268lbt,Hiking equipment,139
+/m/026qbn5,Studio couch,140
+/m/026t6,Drum,141
+/m/0270h,Dessert,142
+/m/0271qf7,Wine rack,143
+/m/0271t,Drink,144
+/m/027pcv,Zucchini,145
+/m/027rl48,Ladle,146
+/m/0283dt1,Human mouth,147
+/m/0284d,Dairy Product,148
+/m/029b3,Dice,149
+/m/029bxz,Oven,150
+/m/029tx,Dinosaur,151
+/m/02bm9n,Ratchet (Device),152
+/m/02crq1,Couch,153
+/m/02ctlc,Cricket ball,154
+/m/02cvgx,Winter melon,155
+/m/02d1br,Spatula,156
+/m/02d9qx,Whiteboard,157
+/m/02ddwp,Pencil sharpener,158
+/m/02dgv,Door,159
+/m/02dl1y,Hat,160
+/m/02f9f_,Shower,161
+/m/02fh7f,Eraser,162
+/m/02fq_6,Fedora,163
+/m/02g30s,Guacamole,164
+/m/02gzp,Dagger,165
+/m/02h19r,Scarf,166
+/m/02hj4,Dolphin,167
+/m/02jfl0,Sombrero,168
+/m/02jnhm,Tin can,169
+/m/02jvh9,Mug,170
+/m/02jz0l,Tap,171
+/m/02l8p9,Harbor seal,172
+/m/02lbcq,Stretcher,173
+/m/02mqfb,Can opener,174
+/m/02_n6y,Goggles,175
+/m/02p0tk3,Human body,176
+/m/02p3w7d,Roller skates,177
+/m/02p5f1q,Coffee cup,178
+/m/02pdsw,Cutting board,179
+/m/02pjr4,Blender,180
+/m/02pkr5,Plumbing fixture,181
+/m/02pv19,Stop sign,182
+/m/02rdsp,Office supplies,183
+/m/02rgn06,Volleyball (Ball),184
+/m/02s195,Vase,185
+/m/02tsc9,Slow cooker,186
+/m/02vkqh8,Wardrobe,187
+/m/02vqfm,Coffee,188
+/m/02vwcm,Whisk,189
+/m/02w3r3,Paper towel,190
+/m/02w3_ws,Personal care,191
+/m/02wbm,Food,192
+/m/02wbtzl,Sun hat,193
+/m/02wg_p,Tree house,194
+/m/02wmf,Flying disc,195
+/m/02wv6h6,Skirt,196
+/m/02wv84t,Gas stove,197
+/m/02x8cch,Salt and pepper shakers,198
+/m/02x984l,Mechanical fan,199
+/m/02xb7qb,Face powder,200
+/m/02xqq,Fax,201
+/m/02xwb,Fruit,202
+/m/02y6n,French fries,203
+/m/02z51p,Nightstand,204
+/m/02zn6n,Barrel,205
+/m/02zt3,Kite,206
+/m/02zvsm,Tart,207
+/m/030610,Treadmill,208
+/m/0306r,Fox,209
+/m/03120,Flag,210
+/m/0319l,French horn,211
+/m/031b6r,Window blind,212
+/m/031n1,Human foot,213
+/m/0323sq,Golf cart,214
+/m/032b3c,Jacket,215
+/m/033cnk,Egg (Food),216
+/m/033rq4,Street light,217
+/m/0342h,Guitar,218
+/m/034c16,Pillow,219
+/m/035r7c,Human leg,220
+/m/035vxb,Isopod,221
+/m/0388q,Grape,222
+/m/039xj_,Human ear,223
+/m/03bbps,Power plugs and sockets,224
+/m/03bj1,Panda,225
+/m/03bk1,Giraffe,226
+/m/03bt1vf,Woman,227
+/m/03c7gz,Door handle,228
+/m/03d443,Rhinoceros,229
+/m/03dnzn,Bathtub,230
+/m/03fj2,Goldfish,231
+/m/03fp41,Houseplant,232
+/m/03fwl,Goat,233
+/m/03g8mr,Baseball bat,234
+/m/03grzl,Baseball glove,235
+/m/03hj559,Mixing bowl,236
+/m/03hl4l9,Marine invertebrates,237
+/m/03hlz0c,Kitchen utensil,238
+/m/03jbxj,Light switch,239
+/m/03jm5,House,240
+/m/03k3r,Horse,241
+/m/03kt2w,Stationary bicycle,242
+/m/03l9g,Hammer,243
+/m/03ldnb,Ceiling fan,244
+/m/03m3pdh,Sofa bed,245
+/m/03m3vtv,Adhesive tape,246
+/m/03m5k,Harp,247
+/m/03nfch,Sandal,248
+/m/03p3bw,Bicycle helmet,249
+/m/03q5c7,Saucer,250
+/m/03q5t,Harpsichord,251
+/m/03q69,Human hair,252
+/m/03qhv5,Heater,253
+/m/03qjg,Harmonica,254
+/m/03qrc,Hamster,255
+/m/03rszm,Curtain,256
+/m/03ssj5,Bed,257
+/m/03s_tn,Kettle,258
+/m/03tw93,Fireplace,259
+/m/03txqz,Scale,260
+/m/03v5tg,Drinking straw,261
+/m/03vt0,Insect,262
+/m/03wvsk,Hair dryer,263
+/m/03_wxk,Kitchenware,264
+/m/03wym,Indoor rower,265
+/m/03xxp,Invertebrate,266
+/m/03y6mg,Food processor,267
+/m/03__z0,Bookcase,268
+/m/040b_t,Refrigerator,269
+/m/04169hn,Wood-burning stove,270
+/m/0420v5,Punching bag,271
+/m/043nyj,Common fig,272
+/m/0440zs,Cocktail shaker,273
+/m/0449p,Jaguar (Animal),274
+/m/044r5d,Golf ball,275
+/m/0463sg,Fashion accessory,276
+/m/046dlr,Alarm clock,277
+/m/047j0r,Filing cabinet,278
+/m/047v4b,Artichoke,279
+/m/04bcr3,Table,280
+/m/04brg2,Tableware,281
+/m/04c0y,Kangaroo,282
+/m/04cp_,Koala,283
+/m/04ctx,Knife,284
+/m/04dr76w,Bottle,285
+/m/04f5ws,Bottle opener,286
+/m/04g2r,Lynx,287
+/m/04gth,Lavender (Plant),288
+/m/04h7h,Lighthouse,289
+/m/04h8sr,Dumbbell,290
+/m/04hgtk,Human head,291
+/m/04kkgm,Bowl,292
+/m/04lvq_,Humidifier,293
+/m/04m6gz,Porch,294
+/m/04m9y,Lizard,295
+/m/04p0qw,Billiard table,296
+/m/04rky,Mammal,297
+/m/04rmv,Mouse,298
+/m/04_sv,Motorcycle,299
+/m/04szw,Musical instrument,300
+/m/04tn4x,Swim cap,301
+/m/04v6l4,Frying pan,302
+/m/04vv5k,Snowplow,303
+/m/04y4h8h,Bathroom cabinet,304
+/m/04ylt,Missile,305
+/m/04yqq2,Bust,306
+/m/04yx4,Man,307
+/m/04z4wx,Waffle iron,308
+/m/04zpv,Milk,309
+/m/04zwwv,Ring binder,310
+/m/050gv4,Plate,311
+/m/050k8,Mobile phone,312
+/m/052lwg6,Baked goods,313
+/m/052sf,Mushroom,314
+/m/05441v,Crutch,315
+/m/054fyh,Pitcher (Container),316
+/m/054_l,Mirror,317
+/m/054xkw,Personal flotation device,318
+/m/05_5p_0,Table tennis racket,319
+/m/05676x,Pencil case,320
+/m/057cc,Musical keyboard,321
+/m/057p5t,Scoreboard,322
+/m/0584n8,Briefcase,323
+/m/058qzx,Kitchen knife,324
+/m/05bm6,Nail (Construction),325
+/m/05ctyq,Tennis ball,326
+/m/05gqfk,Plastic bag,327
+/m/05kms,Oboe,328
+/m/05kyg_,Chest of drawers,329
+/m/05n4y,Ostrich,330
+/m/05r5c,Piano,331
+/m/05r655,Girl,332
+/m/05s2s,Plant,333
+/m/05vtc,Potato,334
+/m/05w9t9,Hair spray,335
+/m/05y5lj,Sports equipment,336
+/m/05z55,Pasta,337
+/m/05z6w,Penguin,338
+/m/05zsy,Pumpkin,339
+/m/061_f,Pear,340
+/m/061hd_,Infant bed,341
+/m/0633h,Polar bear,342
+/m/063rgb,Mixer,343
+/m/0642b4,Cupboard,344
+/m/065h6l,Jacuzzi,345
+/m/0663v,Pizza,346
+/m/06_72j,Digital clock,347
+/m/068zj,Pig,348
+/m/06bt6,Reptile,349
+/m/06c54,Rifle,350
+/m/06c7f7,Lipstick,351
+/m/06_fw,Skateboard,352
+/m/06j2d,Raven,353
+/m/06k2mb,High heels,354
+/m/06l9r,Red panda,355
+/m/06m11,Rose,356
+/m/06mf6,Rabbit,357
+/m/06msq,Sculpture,358
+/m/06ncr,Saxophone,359
+/m/06nrc,Shotgun,360
+/m/06nwz,Seafood,361
+/m/06pcq,Submarine sandwich,362
+/m/06__v,Snowboard,363
+/m/06y5r,Sword,364
+/m/06z37_,Picture frame,365
+/m/07030,Sushi,366
+/m/0703r8,Loveseat,367
+/m/071p9,Ski,368
+/m/071qp,Squirrel,369
+/m/073bxn,Tripod,370
+/m/073g6,Stethoscope,371
+/m/074d1,Submarine,372
+/m/0755b,Scorpion,373
+/m/076bq,Segway,374
+/m/076lb9,Training bench,375
+/m/078jl,Snake,376
+/m/078n6m,Coffee table,377
+/m/079cl,Skyscraper,378
+/m/07bgp,Sheep,379
+/m/07c52,Television,380
+/m/07c6l,Trombone,381
+/m/07clx,Tea,382
+/m/07cmd,Tank,383
+/m/07crc,Taco,384
+/m/07cx4,Telephone,385
+/m/07dd4,Torch,386
+/m/07dm6,Tiger,387
+/m/07fbm7,Strawberry,388
+/m/07gql,Trumpet,389
+/m/07j7r,Tree,390
+/m/07j87,Tomato,391
+/m/07jdr,Train,392
+/m/07k1x,Tool,393
+/m/07kng9,Picnic basket,394
+/m/07mcwg,Cooking spray,395
+/m/07mhn,Trousers,396
+/m/07pj7bq,Bowling equipment,397
+/m/07qxg_,Football helmet,398
+/m/07r04,Truck,399
+/m/07v9_z,Measuring cup,400
+/m/07xyvk,Coffeemaker,401
+/m/07y_7,Violin,402
+/m/07yv9,Vehicle,403
+/m/080hkjn,Handbag,404
+/m/080n7g,Paper cutter,405
+/m/081qc,Wine,406
+/m/083kb,Weapon,407
+/m/083wq,Wheel,408
+/m/084hf,Worm,409
+/m/084rd,Wok,410
+/m/084zz,Whale,411
+/m/0898b,Zebra,412
+/m/08dz3q,Auto part,413
+/m/08hvt4,Jug,414
+/m/08ks85,Pizza cutter,415
+/m/08p92x,Cream,416
+/m/08pbxl,Monkey,417
+/m/096mb,Lion,418
+/m/09728,Bread,419
+/m/099ssp,Platter,420
+/m/09b5t,Chicken,421
+/m/09csl,Eagle,422
+/m/09ct_,Helicopter,423
+/m/09d5_,Owl,424
+/m/09ddx,Duck,425
+/m/09dzg,Turtle,426
+/m/09f20,Hippopotamus,427
+/m/09f_2,Crocodile,428
+/m/09g1w,Toilet,429
+/m/09gtd,Toilet paper,430
+/m/09gys,Squid,431
+/m/09j2d,Clothing,432
+/m/09j5n,Footwear,433
+/m/09k_b,Lemon,434
+/m/09kmb,Spider,435
+/m/09kx5,Deer,436
+/m/09ld4,Frog,437
+/m/09qck,Banana,438
+/m/09rvcxw,Rocket,439
+/m/09tvcd,Wine glass,440
+/m/0b3fp9,Countertop,441
+/m/0bh9flk,Tablet computer,442
+/m/0bjyj5,Waste container,443
+/m/0b_rs,Swimming pool,444
+/m/0bt9lr,Dog,445
+/m/0bt_c3,Book,446
+/m/0bwd_0j,Elephant,447
+/m/0by6g,Shark,448
+/m/0c06p,Candle,449
+/m/0c29q,Leopard,450
+/m/0c2jj,Axe,451
+/m/0c3m8g,Hand dryer,452
+/m/0c3mkw,Soap dispenser,453
+/m/0c568,Porcupine,454
+/m/0c9ph5,Flower,455
+/m/0ccs93,Canary,456
+/m/0cd4d,Cheetah,457
+/m/0cdl1,Palm tree,458
+/m/0cdn1,Hamburger,459
+/m/0cffdh,Maple,460
+/m/0cgh4,Building,461
+/m/0ch_cf,Fish,462
+/m/0cjq5,Lobster,463
+/m/0cjs7,Garden Asparagus,464
+/m/0c_jw,Furniture,465
+/m/0cl4p,Hedgehog,466
+/m/0cmf2,Airplane,467
+/m/0cmx8,Spoon,468
+/m/0cn6p,Otter,469
+/m/0cnyhnx,Bull,470
+/m/0_cp5,Oyster,471
+/m/0cqn2,Horizontal bar,472
+/m/0crjs,Convenience store,473
+/m/0ct4f,Bomb,474
+/m/0cvnqh,Bench,475
+/m/0cxn2,Ice cream,476
+/m/0cydv,Caterpillar,477
+/m/0cyf8,Butterfly,478
+/m/0cyfs,Parachute,479
+/m/0cyhj_,Orange,480
+/m/0czz2,Antelope,481
+/m/0d20w4,Beaker,482
+/m/0d_2m,Moths and butterflies,483
+/m/0d4v4,Window,484
+/m/0d4w1,Closet,485
+/m/0d5gx,Castle,486
+/m/0d8zb,Jellyfish,487
+/m/0dbvp,Goose,488
+/m/0dbzx,Mule,489
+/m/0dftk,Swan,490
+/m/0dj6p,Peach,491
+/m/0djtd,Coconut,492
+/m/0dkzw,Seat belt,493
+/m/0dq75,Raccoon,494
+/m/0_dqb,Chisel,495
+/m/0dt3t,Fork,496
+/m/0dtln,Lamp,497
+/m/0dv5r,Camera,498
+/m/0dv77,Squash (Plant),499
+/m/0dv9c,Racket,500
+/m/0dzct,Human face,501
+/m/0dzf4,Human arm,502
+/m/0f4s2w,Vegetable,503
+/m/0f571,Diaper,504
+/m/0f6nr,Unicycle,505
+/m/0f6wt,Falcon,506
+/m/0f8s22,Chime,507
+/m/0f9_l,Snail,508
+/m/0fbdv,Shellfish,509
+/m/0fbw6,Cabbage,510
+/m/0fj52s,Carrot,511
+/m/0fldg,Mango,512
+/m/0fly7,Jeans,513
+/m/0fm3zh,Flowerpot,514
+/m/0fp6w,Pineapple,515
+/m/0fqfqc,Drawer,516
+/m/0fqt361,Stool,517
+/m/0frqm,Envelope,518
+/m/0fszt,Cake,519
+/m/0ft9s,Dragonfly,520
+/m/0ftb8,Common sunflower,521
+/m/0fx9l,Microwave oven,522
+/m/0fz0h,Honeycomb,523
+/m/0gd2v,Marine mammal,524
+/m/0gd36,Sea lion,525
+/m/0gj37,Ladybug,526
+/m/0gjbg72,Shelf,527
+/m/0gjkl,Watch,528
+/m/0gm28,Candy,529
+/m/0grw1,Salad,530
+/m/0gv1x,Parrot,531
+/m/0gxl3,Handgun,532
+/m/0h23m,Sparrow,533
+/m/0h2r6,Van,534
+/m/0h8jyh6,Grinder,535
+/m/0h8kx63,Spice rack,536
+/m/0h8l4fh,Light bulb,537
+/m/0h8lkj8,Corded phone,538
+/m/0h8mhzd,Sports uniform,539
+/m/0h8my_4,Tennis racket,540
+/m/0h8mzrc,Wall clock,541
+/m/0h8n27j,Serving tray,542
+/m/0h8n5zk,Kitchen & dining room table,543
+/m/0h8n6f9,Dog bed,544
+/m/0h8n6ft,Cake stand,545
+/m/0h8nm9j,Cat furniture,546
+/m/0h8nr_l,Bathroom accessory,547
+/m/0h8nsvg,Facial tissue holder,548
+/m/0h8ntjv,Pressure cooker,549
+/m/0h99cwc,Kitchen appliance,550
+/m/0h9mv,Tire,551
+/m/0hdln,Ruler,552
+/m/0hf58v5,Luggage and bags,553
+/m/0hg7b,Microphone,554
+/m/0hkxq,Broccoli,555
+/m/0hnnb,Umbrella,556
+/m/0hnyx,Pastry,557
+/m/0hqkz,Grapefruit,558
+/m/0j496,Band-aid,559
+/m/0jbk,Animal,560
+/m/0jg57,Bell pepper,561
+/m/0jly1,Turkey,562
+/m/0jqgx,Lily,563
+/m/0jwn_,Pomegranate,564
+/m/0jy4k,Doughnut,565
+/m/0jyfg,Glasses,566
+/m/0k0pj,Human nose,567
+/m/0k1tl,Pen,568
+/m/0_k2,Ant,569
+/m/0k4j,Car,570
+/m/0k5j,Aircraft,571
+/m/0k65p,Human hand,572
+/m/0km7z,Skunk,573
+/m/0kmg4,Teddy bear,574
+/m/0kpqd,Watermelon,575
+/m/0kpt_,Cantaloupe,576
+/m/0ky7b,Dishwasher,577
+/m/0l14j_,Flute,578
+/m/0l3ms,Balance beam,579
+/m/0l515,Sandwich,580
+/m/0ll1f78,Shrimp,581
+/m/0llzx,Sewing machine,582
+/m/0lt4_,Binoculars,583
+/m/0m53l,Rays and skates,584
+/m/0mcx2,Ipod,585
+/m/0mkg,Accordion,586
+/m/0mw_6,Willow,587
+/m/0n28_,Crab,588
+/m/0nl46,Crown,589
+/m/0nybt,Seahorse,590
+/m/0p833,Perfume,591
+/m/0pcr,Alpaca,592
+/m/0pg52,Taxi,593
+/m/0ph39,Canoe,594
+/m/0qjjc,Remote control,595
+/m/0qmmr,Wheelchair,596
+/m/0wdt60w,Rugby ball,597
+/m/0xfy,Armadillo,598
+/m/0xzly,Maracas,599
+/m/0zvk5,Helmet,600
